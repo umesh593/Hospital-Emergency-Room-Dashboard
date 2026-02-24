@@ -1,4 +1,6 @@
 #🏥 Hospital Emergency Room Dashboard (Excel Project)
+[Dashboard Sceenshot)
+(Hospital Emergency Room Dashboard.png)
 📌 Project Overview
 
 The Hospital Emergency Room Dashboard is an interactive Excel-based analytics project designed to monitor and evaluate emergency department performance.
